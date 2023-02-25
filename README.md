@@ -12,6 +12,12 @@ My name is Pawel Obrzut and I'm excited to welcome you to my GitHub. Here, I doc
   <a href="https://www.linkedin.com/in/pawel-obrzut-023762110/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br/>
+  <hr>
+  <p>Checkout deployed projects:</p>
+  <a href="https://pawelobrzut.github.io/">
+    <img src="https://img.shields.io/static/v1?label=My&message=Portfolio&color=blue" height="28em" alt="Portfolio Badge"/>
+  </a>
 </div>
 <hr>
 <div align="center">
