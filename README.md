@@ -2,12 +2,20 @@
 <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 <div align="left">
-<p>Hello there!<br>
-My name is Pawel Obrzut and I'm excited to welcome you to my GitHub. Here, I document my coding journey and share my latest projects with the world. </p>
-<p>Coding has been my passion ever since I discovered it in secondary school. Since then, I've pursued it as a hobby and am now transitioning into a full-time role as a full-stack developer. Looking back, I wish I had delved deeper into coding earlier in my career!</p>
-<p>Currently, I have the most experience working with JavaScript/TypeScript. I feel confident using Express Node to build powerful backends and React for frontend development. When it comes to managing state, I typically use the Context API, but I'm also familiar with Redux, Toolkit, and Zustand. </p>
-<p>I also have a solid understanding of relational databases like SQL and NoSQL databases like MongoDB. I'm skilled in using Docker for containerization and Jest and Mocha for testing applications.</p>
-<p>I'm always striving to improve my skills and stay up-to-date on the latest libraries and npm packages. Right now, I'm focused on learning GoLang, and I'm excited to start incorporating my new skills into future projects!</p>
+ <p>
+Greetings!
+
+Welcome to my GitHub profile! I'm Pawel Obrzut, and I'm thrilled to have you here. This platform serves as a documentation of my coding journey and a showcase for my latest projects.
+
+Ever since I discovered coding, it has become my true passion. Over the years, I've pursued it as a hobby, and now I'm making the exciting transition into a full-time role as a full-stack developer. Looking back, I wish I had dived deeper into coding earlier in my career!
+
+Currently, my expertise lies primarily in JavaScript/TypeScript. I feel confident using Express Node to construct robust backends, and React for frontend development. When it comes to managing state, I typically employ the Context API, but I'm also well-versed in Redux, Toolkit, and Zustand.
+
+Additionally, I possess a strong understanding of both relational databases like SQL and NoSQL databases such as MongoDB. I'm proficient in using Docker for containerization, and I utilize Jest and Mocha for testing applications.
+
+Continuously honing my skills and staying up-to-date with the latest libraries and npm packages is always a priority for me. Presently, I'm dedicated to learning GoLang, and I can't wait to integrate my newfound skills into future projects!
+
+Thank you for visiting, and feel free to explore my GitHub repositories to get a glimpse of my coding endeavors.
   </p>
   <a href="https://www.linkedin.com/in/pawel-obrzut-023762110/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -35,13 +43,6 @@ My name is Pawel Obrzut and I'm excited to welcome you to my GitHub. Here, I doc
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 <hr>
-
-
-<div align="center">
-  <p>:fire: My Stats :</p>
-  <img height="160em" src='http://github-readme-streak-stats.herokuapp.com?user=PawelObrzut&theme=highcontrast' />
-  <img height="160em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=PawelObrzut&layout=compact&theme=vision-friendly-dark' />
-</div>
 
 
 <!--
