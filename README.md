@@ -3,19 +3,21 @@
 </div>
 <div align="left">
  <p>
-Greetings!
+Welcome to my GitHub profile!
 
-Welcome to my GitHub profile! I'm Pawel Obrzut, and I'm thrilled to have you here. This platform serves as a documentation of my coding journey and a showcase for my latest projects.
+I’m a Full Stack Developer with a strong focus on front-end and Node.js applications. I enjoy building responsive, user-friendly solutions with modern technologies and clean code.
 
-Ever since I discovered coding, it has become my true passion. Over the years, I've pursued it as a hobby, and now I'm making the exciting transition into a full-time role as a full-stack developer. Looking back, I wish I had dived deeper into coding earlier in my career!
+💻 Skilled in JavaScript, TypeScript, React, Node, Express, Nest.js, PostgreSQL, MongoDB, Docker
+📚 Graduate of School of Applied Technology (Stockholm) & General Assembly (New York)
+🛠️ Experienced in RESTful APIs, GraphQL, authentication, database design, and scalable architectures
+🌍 Languages: English, Swedish, Polish
 
-Currently, my expertise lies primarily in JavaScript/TypeScript. I feel confident using Express Node to construct robust backends, and React for frontend development. When it comes to managing state, I typically employ the Context API, but I'm also well-versed in Redux, Toolkit, and Zustand.
+Check out some of my featured projects:
+🛒 E-commerce Platform – Full-stack React/Node/Go app with JWT authentication and PostgreSQL
+🍸 Cocktail App – MERN project integrating third-party APIs
+🌍 REST Countries API – Responsive front-end challenge with React & CSS Grid
+📝 Multi-Step Form – Advanced React form with validation and Cypress/Jest testing
 
-Additionally, I possess a strong understanding of both relational databases like SQL and NoSQL databases such as MongoDB. I'm proficient in using Docker for containerization, and I utilize Jest and Mocha for testing applications.
-
-Continuously honing my skills and staying up-to-date with the latest libraries and npm packages is always a priority for me. Presently, I'm dedicated to learning GoLang, and I can't wait to integrate my newfound skills into future projects!
-
-Thank you for visiting, and feel free to explore my GitHub repositories to get a glimpse of my coding endeavors.
   </p>
   <a href="https://www.linkedin.com/in/pawel-obrzut-023762110/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
