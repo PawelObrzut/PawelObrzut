@@ -3,20 +3,27 @@
 </div>
 <div align="left">
  <p>
-Welcome to my GitHub profile!
+Hi, I’m Paweł 👋  
+Full-stack developer with a strong focus on front-end and Node.js.
 
-I’m a Full Stack Developer with a strong focus on front-end and Node.js applications. I enjoy building responsive, user-friendly solutions with modern technologies and clean code.
+I build responsive, user-friendly applications using modern JavaScript frameworks and scalable back-end architectures. I enjoy turning complex requirements into clean, intuitive solutions and collaborating in agile teams.
 
-💻 Skilled in JavaScript, TypeScript, React, Node, Express, Nest.js, PostgreSQL, MongoDB, Docker
-📚 Graduate of School of Applied Technology (Stockholm) & General Assembly (New York)
-🛠️ Experienced in RESTful APIs, GraphQL, authentication, database design, and scalable architectures
-🌍 Languages: English, Swedish, Polish
+**Tech I work with**
+- JavaScript / TypeScript
+- React, Redux Toolkit
+- Tailwind, Styled Components
+- Node.js / Express
+- PostgreSQL, MongoDB
+- Docker, Git, Jest
 
-Check out some of my featured projects:
-🛒 E-commerce Platform – Full-stack React/Node/Go app with JWT authentication and PostgreSQL
-🍸 Cocktail App – MERN project integrating third-party APIs
-🌍 REST Countries API – Responsive front-end challenge with React & CSS Grid
-📝 Multi-Step Form – Advanced React form with validation and Cypress/Jest testing
+**Background**
+- Software Development Consultant (React & Node)
+- Graduate of School of Applied Technology (Stockholm) & General Assembly (NY)
+- Experience with REST APIs, GraphQL, authentication, and database design
+
+🌍 Languages: English, Swedish, Polish  
+
+Feel free to explore my projects below.
 
   </p>
   <a href="https://www.linkedin.com/in/pawel-obrzut-023762110/">
